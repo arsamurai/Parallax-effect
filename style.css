@@ -1,0 +1,10 @@
+header,
+footer,
+.middle {
+  height: 20vh;
+}
+
+.parallax-window {
+  min-height: 400px;
+  background: transparent;
+}
